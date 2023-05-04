@@ -1,1 +1,2 @@
-This is related to push and creating repositories and branches and merging of two brances. 
+//This is related to push and creating repositories and branches and merging of two brances. 
+This is edited file
